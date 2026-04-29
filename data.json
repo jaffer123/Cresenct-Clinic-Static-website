@@ -1,0 +1,208 @@
+{
+  "clinic": {
+    "name": "Crescent Clinic",
+    "tagline": "Trusted Healthcare Since 2018",
+    "description": "A multi-specialty clinic combining advanced medical technology with compassionate, personalized care — serving families across every stage of life.",
+    "phone": "+91 63828 27943",
+    "whatsapp": "+91 63828 27943",
+    "email": "info@crescentclinic.in",
+    "address": {
+      "street": "Car Street, Cheyyur",
+      "city": "Chengalpattu",
+      "state": "Tamil Nadu",
+      "pincode": "603302"
+    },
+    "hours": "Daily: 8:00 AM – 8:00 PM",
+    "social": {
+      "facebook": "#",
+      "instagram": "#",
+      "youtube": "#"
+    }
+  },
+  "hero": {
+    "slides": [
+      {
+        "title": "Your Health.",
+        "titleAccent": "Our Mission.",
+        "subtitle": "From preventive care to specialized treatments, we put your health first — every single visit.",
+        "badge": "Multi-Specialty Clinic"
+      },
+      {
+        "title": "Expert Doctors.",
+        "titleAccent": "Modern Care.",
+        "subtitle": "Experienced doctors with trusted diagnosis and compassionate treatment.",
+        "badge": "Advanced Care"
+      },
+      {
+        "title": "Caring for",
+        "titleAccent": "Every Family.",
+        "subtitle": "From children to seniors, we offer healthcare tailored for every stage of life.",
+        "badge": "Family Healthcare"
+      }
+    ]
+  },
+  "stats": [
+    { "value": "8+", "label": "Years Serving" },
+    { "value": "5000+", "label": "Patients Treated" },
+    { "value": "2", "label": "Doctors" },
+    { "value": "6+", "label": "Core Services" }
+  ],
+  "about": {
+    "badge": "Our Commitment",
+    "heading": "About Us",
+    "paragraphs": [
+      "Crescent Clinic is a trusted multi-specialty healthcare centre delivering compassionate and affordable medical care for families in and around Cheyyur.",
+      "From preventive checkups to specialist consultations, diagnostics, physiotherapy, and pharmacy support, we focus on providing complete care under one roof."
+    ],
+    "pillars": [
+      {
+        "icon": "🏆",
+        "title": "Experienced Team",
+        "desc": "Qualified doctors, nurses, and support staff dedicated to patient wellbeing."
+      },
+      {
+        "icon": "🔬",
+        "title": "Modern Facilities",
+        "desc": "Lab testing, ECG, pharmacy, and physiotherapy services available."
+      },
+      {
+        "icon": "❤️",
+        "title": "Patient First",
+        "desc": "Friendly, personalised treatment plans with compassionate attention."
+      }
+    ]
+  },
+  "doctors": [
+    {
+      "name": "Dr. P. Nazeem Fazil",
+      "qualification": "MBBS, MD, F.Diab",
+      "specialty": "Neuropsychiatry, Diabetology",
+      "experience": "10 Years",
+      "color": "#0d9488"
+    },
+    {
+      "name": "Dr. S. Thowfica",
+      "qualification": "MBBS, FGO",
+      "specialty": "Registered Medical Practitioner",
+      "experience": "8 Years",
+      "color": "#0891b2"
+    }
+  ],
+  "staff": [
+    {
+      "name": "Mrs. Nandhini",
+      "role": "Staff Nurse",
+      "experience": "10 Years"
+    },
+    {
+      "name": "Mrs. Sowndarya",
+      "role": "Staff Nurse",
+      "experience": "8 Years"
+    },
+    {
+      "name": "Miss Swetha",
+      "role": "Lab Technician",
+      "experience": "7 Years"
+    },
+    {
+      "name": "Mrs. Parvathi",
+      "role": "Receptionist",
+      "experience": "Experienced"
+    },
+    {
+      "name": "Mrs. Pavithra",
+      "role": "Physiotherapist (BPT)",
+      "experience": "Experienced"
+    },
+    {
+      "name": "Mrs. Malliga",
+      "role": "Health Worker",
+      "experience": "Experienced"
+    }
+  ],
+  "facilities": [
+    {
+      "icon": "🩺",
+      "title": "General Medicine",
+      "desc": "Comprehensive diagnosis and treatment for common and chronic illnesses."
+    },
+    {
+      "icon": "👩‍⚕️",
+      "title": "Women's Health",
+      "desc": "Dedicated healthcare services for women’s wellness and routine care."
+    },
+    {
+      "icon": "👶",
+      "title": "Paediatrics",
+      "desc": "Healthcare support for infants, children, and adolescents."
+    },
+    {
+      "icon": "🩸",
+      "title": "Diabetology",
+      "desc": "Diabetes screening, treatment, counselling, and follow-up care."
+    },
+    {
+      "icon": "🔬",
+      "title": "Diagnostics & Lab",
+      "desc": "In-house laboratory services for routine and advanced tests."
+    },
+    {
+      "icon": "🫀",
+      "title": "ECG",
+      "desc": "Heart health screening and ECG diagnostic support."
+    },
+    {
+      "icon": "🦴",
+      "title": "Physiotherapy",
+      "desc": "Pain relief, mobility improvement, and rehabilitation services."
+    },
+    {
+      "icon": "💊",
+      "title": "Pharmacy",
+      "desc": "On-site pharmacy with essential medicines and prescriptions."
+    }
+  ],
+  "camps": [
+    {
+      "title": "Free Diabetes Screening Camp",
+      "date": "March 2025",
+      "location": "Community Hall, Anna Nagar",
+      "desc": "Over 200 residents screened for diabetes and hypertension with free consultations."
+    },
+    {
+      "title": "Women's Wellness Camp",
+      "date": "January 2025",
+      "location": "Crescent Clinic",
+      "desc": "Free gynaecology consultations, cancer awareness sessions, and nutrition counselling."
+    },
+    {
+      "title": "Eye Health Camp",
+      "date": "November 2024",
+      "location": "Govt. School, Kilpauk",
+      "desc": "Free eye checkups for schoolchildren — 180 children screened, 40 spectacles provided."
+    },
+    {
+      "title": "Child Vaccination Drive",
+      "date": "September 2024",
+      "location": "Crescent Clinic",
+      "desc": "Community vaccination program benefiting over 150 children under age 5."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Ramya S.",
+      "rating": 5,
+      "text": "Dr. Priya is incredibly thorough. She took time to explain everything clearly. The clinic is clean, modern, and the staff are so warm. Highly recommend!"
+    },
+    {
+      "name": "Krishnamurthy V.",
+      "rating": 5,
+      "text": "I've been managing my diabetes here for 3 years. Dr. Senthil's guidance has transformed my lifestyle. My HbA1c is now under control!"
+    },
+    {
+      "name": "Anitha P.",
+      "rating": 5,
+      "text": "Brought my daughter here for a routine checkup. Dr. Vikram made her feel so comfortable. The entire experience was seamless and professional."
+    }
+  ]
+}
