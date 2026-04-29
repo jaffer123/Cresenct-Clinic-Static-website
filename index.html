@@ -4,7 +4,12 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Crescent Clinic – Multi-Specialty Healthcare</title>
+  <title>Crescent Clinic Cheyyur | Dr Thowfica | Best Clinic in Cheyyur</title>
+  <meta name="description"
+    content="Crescent Clinic in Cheyyur offers expert care by Dr Thowfica. Visit the best clinic in Cheyyur for general checkups, fever treatment, and affordable healthcare.">
+  <meta name="keywords"
+    content="Cheyyur clinic, best clinic in Cheyyur, Dr Thowfica Cheyyur, doctor in Cheyyur, medical clinic Cheyyur">
+  <meta name="robots" content="index, follow">
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link
     href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;0,700;1,600&family=DM+Sans:wght@300;400;500;600&display=swap"
@@ -1365,11 +1370,34 @@
         grid-template-columns: 1fr;
       }
     }
+
+    .whatsapp-float {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      background: #25D366;
+      color: white;
+      padding: 14px 18px;
+      border-radius: 50px;
+      font-size: 14px;
+      font-weight: 600;
+      text-decoration: none;
+      box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
+      z-index: 999;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      transition: 0.3s;
+    }
+
+    .whatsapp-float:hover {
+      background: #1ebe5d;
+      transform: translateY(-2px);
+    }
   </style>
 </head>
 
 <body>
-
   <!-- TOPBAR -->
   <div class="topbar" id="topbar">
     <div class="topbar-left">
@@ -1408,8 +1436,12 @@
       <li><a href="#about">About Us</a></li>
       <li><a href="#facilities">Facilities</a></li>
       <li><a href="#doctors">Doctors</a></li>
-      <li><a href="#camps">Medical Camps</a></li>
-      <li><a href="#contact" class="nav-cta">Contact Us</a></li>
+      <li>
+        <a href="https://wa.me/916382827943?text=Hello%20Crescent%20Clinic,%20I%20want%20to%20book%20an%20appointment%20with%20Dr%20Thowfica"
+          class="nav-cta" target="_blank">
+          Book Now
+        </a>
+      </li>
     </ul>
     <div class="hamburger" id="hamburger" onclick="toggleMenu()">
       <span></span><span></span><span></span>
@@ -1552,6 +1584,10 @@
       <span id="footerCopy"></span>
       <span style="color:rgba(255,255,255,0.4);">Designed with ❤️ for better healthcare</span>
     </div>
+    <div style="display:none;">
+      Crescent Clinic is the best clinic in Cheyyur offering treatment by Dr Thowfica.
+      If you are searching for a doctor in Cheyyur or clinic near me, visit Crescent Clinic today.
+    </div>
   </footer>
 
   <script>
@@ -1613,8 +1649,11 @@
           <h1 class="hero-title">${s.title} <span class="accent">${s.titleAccent}</span></h1>
           <p class="hero-subtitle">${s.subtitle}</p>
           <div class="hero-actions">
-            <a href="#contact" class="btn-primary">📅 Book Appointment</a>
-            <a href="#about" class="btn-outline">Learn More →</a>
+            <a href="https://wa.me/916382827943?text=Hello%20Crescent%20Clinic,%20I%20want%20to%20book%20an%20appointment%20with%20Dr%20Thowfica" 
+     class="btn-primary" target="_blank">
+     💬 Book on WhatsApp
+  </a>
+  <a href="#about" class="btn-outline">Learn More →</a>
           </div>
         `;
       }
@@ -1778,7 +1817,17 @@
         </a>
         <div class="contact-card">
           <div class="contact-icon">📍</div>
-          <div><div class="contact-label">Address</div><div class="contact-value">${c.address.street}, ${c.address.city}, ${c.address.state} – ${c.address.pincode}</div></div>
+          <div>
+            <div class="contact-label">Address</div><div class="contact-value">${c.address.street}, ${c.address.city}, ${c.address.state} – ${c.address.pincode}</div>
+          
+    <iframe 
+      src="https://www.google.com/maps?q=Cheyyur+Crescent+Clinic&output=embed"
+      width="100%" 
+      height="200" 
+      style="border:0;border-radius:12px;margin-top:12px;">
+    </iframe>
+
+          </div>
         </div>
         <div class="contact-card">
           <div class="contact-icon">🕐</div>
@@ -1850,6 +1899,77 @@
     }
 
     init();
+  </script>
+
+  <!-- WhatsApp Auto Popup -->
+  <div id="wa-popup" class="wa-popup">
+    <div class="wa-box">
+      <span class="wa-close" onclick="closeWAPopup()">×</span>
+      <h4>Need help?</h4>
+      <p>Chat with Crescent Clinic to book your appointment with Dr Thowfica.</p>
+      <a href="https://wa.me/916382827943?text=Hello%20Crescent%20Clinic,%20I%20want%20to%20book%20an%20appointment%20with%20Dr%20Thowfica"
+        target="_blank">
+        💬 Chat on WhatsApp
+      </a>
+    </div>
+  </div>
+
+  <style>
+    .wa-popup {
+      position: fixed;
+      bottom: 90px;
+      right: 20px;
+      display: none;
+      z-index: 999;
+    }
+
+    .wa-box {
+      background: white;
+      border-radius: 12px;
+      padding: 16px;
+      width: 260px;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+      font-size: 14px;
+    }
+
+    .wa-box h4 {
+      margin-bottom: 6px;
+      color: #0d9488;
+    }
+
+    .wa-box p {
+      font-size: 13px;
+      margin-bottom: 12px;
+    }
+
+    .wa-box a {
+      display: block;
+      background: #25D366;
+      color: white;
+      text-align: center;
+      padding: 10px;
+      border-radius: 8px;
+      text-decoration: none;
+      font-weight: 600;
+    }
+
+    .wa-close {
+      position: absolute;
+      right: 10px;
+      top: 6px;
+      cursor: pointer;
+      font-size: 18px;
+    }
+  </style>
+
+  <script>
+    setTimeout(() => {
+      document.getElementById("wa-popup").style.display = "block";
+    }, 5000);
+
+    function closeWAPopup() {
+      document.getElementById("wa-popup").style.display = "none";
+    }
   </script>
 </body>
 
