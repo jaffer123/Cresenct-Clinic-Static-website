@@ -190,19 +190,34 @@
   ],
   "testimonials": [
     {
-      "name": "Ramya S.",
+      "name": "Rahman S.",
       "rating": 5,
-      "text": "Dr. Priya is incredibly thorough. She took time to explain everything clearly. The clinic is clean, modern, and the staff are so warm. Highly recommend!"
+      "text": "Dr. P. Nazeem Fazil explained my diabetic condition clearly and gave the right treatment plan. Very caring doctor and excellent consultation."
     },
     {
-      "name": "Krishnamurthy V.",
+      "name": "Fathima B.",
       "rating": 5,
-      "text": "I've been managing my diabetes here for 3 years. Dr. Senthil's guidance has transformed my lifestyle. My HbA1c is now under control!"
+      "text": "Dr. S. Thowfica was very kind and patient during the checkup. She listened carefully and made me feel comfortable throughout the visit."
     },
     {
-      "name": "Anitha P.",
+      "name": "Kumaravel M.",
       "rating": 5,
-      "text": "Brought my daughter here for a routine checkup. Dr. Vikram made her feel so comfortable. The entire experience was seamless and professional."
+      "text": "The nurses Mrs. Nandhini and Mrs. Sowndarya were very supportive and professional. They handled everything smoothly and with great care."
+    },
+    {
+      "name": "Shabana R.",
+      "rating": 5,
+      "text": "Lab services were quick and accurate. Miss Swetha guided us properly and the reports were delivered on time. Very satisfied."
+    },
+    {
+      "name": "Praveen K.",
+      "rating": 5,
+      "text": "Excellent facilities with ECG, pharmacy, and physiotherapy all in one place. Mrs. Pavithra's physiotherapy sessions helped reduce my pain."
+    },
+    {
+      "name": "Meena D.",
+      "rating": 5,
+      "text": "Receptionist Mrs. Parvathi was polite and helpful. Clean clinic, good doctors, friendly staff, and affordable treatment. Highly recommended."
     }
   ]
 }
