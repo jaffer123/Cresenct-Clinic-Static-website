@@ -2,8 +2,7 @@
   "clinic": {
     "name": "Crescent Clinic",
     "tagline": "Trusted Healthcare Since 2018",
-    "description": "A multi-specialty clinic combining advanced medical technology with compassionate, personalized care — serving families across every stage of life.",
-    "phone": "+91 63828 27943",
+    "description": "Crescent Clinic is a leading clinic in Cheyyur providing healthcare services by Dr Thowfica. We offer general checkups, fever treatment, diabetes care, and affordable medical services for families in Cheyyur.",    "phone": "+91 63828 27943",
     "whatsapp": "+91 63828 27943",
     "email": "info@crescentclinic.in",
     "address": {
@@ -22,56 +21,69 @@
   "hero": {
     "slides": [
       {
-        "title": "Your Health.",
-        "titleAccent": "Our Mission.",
-        "subtitle": "From preventive care to specialized treatments, we put your health first — every single visit.",
-        "badge": "Multi-Specialty Clinic"
+        "title": "Best Clinic in",
+        "titleAccent": "Cheyyur",
+        "subtitle": "Crescent Clinic in Cheyyur provides expert healthcare by Dr Thowfica with trusted and affordable treatment.",
+        "badge": "Top Clinic in Cheyyur"
       },
       {
-        "title": "Expert Doctors.",
-        "titleAccent": "Modern Care.",
-        "subtitle": "Experienced doctors with trusted diagnosis and compassionate treatment.",
-        "badge": "Advanced Care"
+        "title": "Dr Thowfica",
+        "titleAccent": "Cheyyur Doctor",
+        "subtitle": "Experienced and trusted doctor in Cheyyur offering accurate diagnosis and compassionate care.",
+        "badge": "General Physician"
       },
       {
-        "title": "Caring for",
-        "titleAccent": "Every Family.",
-        "subtitle": "From children to seniors, we offer healthcare tailored for every stage of life.",
-        "badge": "Family Healthcare"
+        "title": "Trusted Healthcare",
+        "titleAccent": "Near You",
+        "subtitle": "Looking for a clinic near you in Cheyyur? Visit Crescent Clinic for complete medical care.",
+        "badge": "Family Clinic"
       }
     ]
   },
   "stats": [
-    { "value": "8+", "label": "Years Serving" },
-    { "value": "5000+", "label": "Patients Treated" },
-    { "value": "2", "label": "Doctors" },
-    { "value": "6+", "label": "Core Services" }
+    {
+      "value": "8+",
+      "label": "Years Serving"
+    },
+    {
+      "value": "5000+",
+      "label": "Patients Treated"
+    },
+    {
+      "value": "2",
+      "label": "Doctors"
+    },
+    {
+      "value": "6+",
+      "label": "Core Services"
+    }
   ],
-  "about": {
-    "badge": "Our Commitment",
-    "heading": "About Us",
-    "paragraphs": [
-      "Crescent Clinic is a trusted multi-specialty healthcare centre delivering compassionate and affordable medical care for families in and around Cheyyur.",
-      "From preventive checkups to specialist consultations, diagnostics, physiotherapy, and pharmacy support, we focus on providing complete care under one roof."
-    ],
-    "pillars": [
-      {
-        "icon": "🏆",
-        "title": "Experienced Team",
-        "desc": "Qualified doctors, nurses, and support staff dedicated to patient wellbeing."
-      },
-      {
-        "icon": "🔬",
-        "title": "Modern Facilities",
-        "desc": "Lab testing, ECG, pharmacy, and physiotherapy services available."
-      },
-      {
-        "icon": "❤️",
-        "title": "Patient First",
-        "desc": "Friendly, personalised treatment plans with compassionate attention."
-      }
-    ]
-  },
+ "about": {
+  "badge": "About Crescent Clinic Cheyyur",
+  "heading": "Best Clinic in Cheyyur",
+  "paragraphs": [
+    "Crescent Clinic is a leading clinic in Cheyyur providing affordable and high-quality healthcare services. We are trusted by local patients for accurate diagnosis and compassionate treatment.",
+    "Led by Dr Thowfica, an experienced general physician in Cheyyur, we offer complete medical care including general checkups, diabetes management, women's health, and preventive care.",
+    "If you are searching for the best doctor in Cheyyur or a reliable clinic near you, Crescent Clinic is your trusted healthcare destination."
+  ],
+  "pillars": [
+    {
+      "icon": "🏆",
+      "title": "Experienced Doctor",
+      "desc": "Dr Thowfica is a trusted and experienced doctor in Cheyyur."
+    },
+    {
+      "icon": "💊",
+      "title": "Affordable Treatment",
+      "desc": "Quality healthcare services at affordable cost for all patients."
+    },
+    {
+      "icon": "❤️",
+      "title": "Patient Care",
+      "desc": "Friendly and personalized care for every patient."
+    }
+  ]
+},
   "doctors": [
     {
       "name": "Dr. P. Nazeem Fazil",
@@ -81,12 +93,12 @@
       "color": "#0d9488"
     },
     {
-      "name": "Dr. S. Thowfica",
-      "qualification": "MBBS, FGO",
-      "specialty": "Registered Medical Practitioner",
-      "experience": "8 Years",
-      "color": "#0891b2"
-    }
+  "name": "Dr. S. Thowfica",
+  "qualification": "MBBS, FGO",
+  "specialty": "General Physician in Cheyyur",
+  "experience": "8 Years",
+  "color": "#0891b2"
+}
   ],
   "staff": [
     {
@@ -166,7 +178,7 @@
     {
       "title": "Free Diabetes Screening Camp",
       "date": "March 2025",
-      "location": "Community Hall, Anna Nagar",
+      "location": "Community Hall, Cheyyur",
       "desc": "Over 200 residents screened for diabetes and hypertension with free consultations."
     },
     {
@@ -178,14 +190,14 @@
     {
       "title": "Eye Health Camp",
       "date": "November 2024",
-      "location": "Govt. School, Kilpauk",
+      "location": "Govt. School, Cheyyur",
       "desc": "Free eye checkups for schoolchildren — 180 children screened, 40 spectacles provided."
     },
     {
-      "title": "Child Vaccination Drive",
-      "date": "September 2024",
+      "title": "Master Health Check-up Camp",
+      "date": "October 2025",
       "location": "Crescent Clinic",
-      "desc": "Community vaccination program benefiting over 150 children under age 5."
+      "desc": "Comprehensive health check-up camp offered at an affordable price for the community."
     }
   ],
   "testimonials": [
